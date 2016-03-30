@@ -108,7 +108,7 @@
     "git-repo-info": "^1.1.2",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^2.3.1",
-    "gulp-csslint": "^0.2.0",
+    "gulp-csslint": "^0.3.0",
     "gulp-develop-server": "^0.5.0",
     "gulp-flatten": "^0.2.0",
     "gulp-istanbul": "^0.10.3",
