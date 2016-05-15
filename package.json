@@ -132,7 +132,7 @@
     "ienoopen": "^1.0.0",
     "ip": "^1.1.3",
     "ip-address": "^5.8.0",
-    "jsdom": "^8.5.0",
+    "jsdom": "^9.1.0",
     "jshint-stylish": "^2.2.0",
     "lodash": "^4.12.0",
     "mkdirp": "^0.5.1",
