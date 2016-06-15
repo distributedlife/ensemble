@@ -103,7 +103,7 @@
     "envify": "^3.4.0",
     "expect": "^1.20.1",
     "express": "^4.13.1",
-    "express-bunyan-logger": "^1.1.1",
+    "express-bunyan-logger": "^1.3.0",
     "express-session": "^1.11.3",
     "factor-bundle": "^2.5.0",
     "frameguard": "^2.0.0",
