@@ -161,7 +161,6 @@
     "mocha": "^3.0.0",
     "moment": "^2.14.1",
     "morgan": "^1.7.0",
-    "node-uuid": "^1.4.3",
     "numeral": "^1.5.3",
     "ok-selector": "^1.1.0",
     "peerjs": "^0.3.14",
@@ -184,6 +183,7 @@
     "the-great-mutator": "^1.0.2",
     "through2": "^2.0.1",
     "useragent": "^2.1.7",
+    "uuid": "^3.0.0",
     "x-xss-protection": "^1.0.0"
   },
   "devDependencies": {

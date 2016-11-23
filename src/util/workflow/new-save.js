@@ -1,6 +1,6 @@
 'use strict';
 
-var uuid = require('node-uuid');
+var uuid = require('uuid');
 var saveCommon = require('../workflow/save-common');
 var kickstartPromiseChain = require('../workflow/promise').kickstartPromiseChain;
 import {hostname} from '../../util/hostname';

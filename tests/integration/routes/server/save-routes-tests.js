@@ -65,7 +65,7 @@ describe('save routes', () => {
       new Bluebird(function(resolve) {resolve(undefined);})
     );
 
-    uuid = require('node-uuid');
+    uuid = require('uuid');
     sinon.stub(uuid, 'v4').returns('34242-324324');
 
     var routes = makeTestible('routes/server/save-routes', {

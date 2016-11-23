@@ -3,7 +3,7 @@
 var Bluebird = require('bluebird');
 var cradle = Bluebird.promisifyAll(require('cradle'));
 var logger = require('../logging/server/logger').logger;
-import uuid from 'node-uuid';
+import uuid from 'uuid';
 import config from './config';
 const { clone } = require('./fast-clone');
 
