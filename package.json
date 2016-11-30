@@ -158,7 +158,7 @@
     "lodash": "^4.13.1",
     "memory-pool": "^1.2.0",
     "mkdirp": "^0.5.1",
-    "mocha": "^3.0.0",
+    "mocha": "^3.0.2",
     "moment": "^2.14.1",
     "morgan": "^1.7.0",
     "node-uuid": "^1.4.3",
